@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/xwQEB1r.png" width="100%" />
+<img src="https://i.imgur.com/HeHgiTx.png" width="100%" />
 
 👋 Bem-vindo ao meu GitHub!
 
